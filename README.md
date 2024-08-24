@@ -1,0 +1,1 @@
+a simple perlin noise generator demonstrating 4 basic rules
